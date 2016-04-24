@@ -1,2 +1,2 @@
 # hello-world
-Just another repository of a novice approaching computer programming.
+Just another repository by a novice approaching computer programming.
